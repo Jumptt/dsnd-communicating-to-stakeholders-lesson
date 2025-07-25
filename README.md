@@ -30,6 +30,14 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
+- BootcampStats.ipynb : ブートキャンプ卒業生の就職状況と給与に関する分析。
+
+- HowToBreakIntoTheField.ipynb : ソフトウェア開発者になる方法の分析。
+
+- Salary.ipynb : 給与と仕事満足度に関連する変数の分析。
+
+- Salary_ML.py : 給与を予測するための線形回帰モデルを構築するPythonスクリプト。
+
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
